@@ -1,0 +1,60 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+venv/
+env/
+ENV/
+.venv
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.atom/
+
+# OS & System Files
+Thumbs.db
+.DS_Store
+*.lock
+.AppleDouble
+.LSOverride
+ehthumbs.db
+
+# App-specific
+*.db
+*.sqlite
+*.sqlite3
+*.log
+crashes/
+EditorLog_Projects/
+.app/
+
+# Build outputs
+*.dmg
+*.exe
+*.zip
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
