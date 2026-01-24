@@ -92,7 +92,7 @@ You can launch EditorsLogger in one of the following ways:
 * Run the Python script directly:
 
   ```bash
-  python main.py
+  python EditorsLogGenerator_final.py
   ```
 * Launch the included **macOS `.app` executable**
 
