@@ -4,6 +4,8 @@
 
 Built for **solo editors, assistant editors, film students, documentary editors, and post-production teams** who want to replace manual logging with a faster, cleaner workflow.
 
+I have no coding background, so I used a mixture of Gemini,Claude,Qwen,Deepseek to help realizing this project.
+
 ---
 
 ## 📌 Overview
