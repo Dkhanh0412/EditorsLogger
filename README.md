@@ -38,7 +38,7 @@ EditorsLogger uses a **2-step approach**:
    - Reads the `.csv`
    - Binds stills to each take (called an *entry*)
    - Allows editors to review and annotate before export
-! [EditorsLogger UI](assets/sc2.png)
+![EditorsLogger UI](assets/sc2.png)
 
 ---
 
@@ -50,7 +50,7 @@ EditorsLogger uses a **2-step approach**:
 3. Review takes and write notes inside the app
 4. Export a **PDF log**
 
-! [PDF Export Example](assets/sc3.png)
+![PDF Export Example](assets/sc3.png)
 
 ---
 
