@@ -32,15 +32,14 @@ EditorsLogger uses a **2-step approach**:
 1. A **DaVinci Resolve script**:
    - Extracts still images from each clip on the timeline
    - Generates a corresponding `.csv` file
-![DaVinci Resolve Script](asset/1.png)
+![DaVinci Resolve Script](assets/sc1.png)
 
 2. EditorsLogger:
    - Reads the `.csv`
    - Binds stills to each take (called an *entry*)
    - Allows editors to review and annotate before export
-! [EditorsLogger UI](assets/2.png)
-
-! [EditorsLogger UI](asset/3.png)
+! [EditorsLogger UI](assets/sc2.png)
+! [EditorsLogger UI](assets/sc3.png)
 
 ---
 
