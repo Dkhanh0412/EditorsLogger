@@ -38,8 +38,8 @@ EditorsLogger uses a **2-step approach**:
    - Reads the `.csv`
    - Binds stills to each take (called an *entry*)
    - Allows editors to review and annotate before export
-! [EditorsLogger UI] (asset/2.png)
-! (EditorsLogger UI] (asset/3.png)
+! [EditorsLogger UI] (assets/2.png)
+! (EditorsLogger UI] (assets/3.png)
 ---
 
 ## 🛠 Workflow
