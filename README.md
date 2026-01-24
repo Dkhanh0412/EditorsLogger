@@ -22,6 +22,7 @@ EditorsLogger automates the logging process so editors can focus on watching foo
 - Clean **PDF log export**
 - Editor-agnostic output (usable with any NLE)
 - Designed to fit naturally into existing post-production workflows
+- Supports English/Vietnamese
 
 ---
 
