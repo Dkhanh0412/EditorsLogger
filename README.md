@@ -39,7 +39,6 @@ EditorsLogger uses a **2-step approach**:
    - Binds stills to each take (called an *entry*)
    - Allows editors to review and annotate before export
 ! [EditorsLogger UI](assets/sc2.png)
-! [EditorsLogger UI](assets/sc3.png)
 
 ---
 
@@ -50,6 +49,8 @@ EditorsLogger uses a **2-step approach**:
 2. Drag and drop the folder containing the stills into **EditorsLogger**
 3. Review takes and write notes inside the app
 4. Export a **PDF log**
+
+! [PDF Export Example](assets/sc3.png)
 
 ---
 
