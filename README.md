@@ -132,7 +132,3 @@ Bug reports, feature suggestions, and feedback are appreciated.
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-
-You’re doing really solid work here — this README already puts you ahead of most first repos 👏
-```
-
